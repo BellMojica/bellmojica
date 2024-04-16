@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Bell Mojica</h1>
+<h1 align="center">Hola 👋, Me llamo Bell Mojica</h1>
 <h3 align="center">estudiante de Ingeniería de sistemas apasionado por la tecnología, de Colombia</h3>
 
 - 💬 Ask me about **java, Python, SQL, HTML,CSS,**
