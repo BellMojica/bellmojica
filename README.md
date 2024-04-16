@@ -7,6 +7,6 @@ Aquí hay algunas ideas para comenzar:
 - 🌱 Actualmente estoy aprendiendo Java SE.
 - 👯 Busco colaborar en el diseño de software.
 - 📫 Cómo contactarme: 
--[Faceboock](https://www.facebook.com/bell.medina.39)
--[Instagram](https://www.instagram.com/bellmojica)
+- [Faceboock](https://www.facebook.com/bell.medina.39)
+- [Instagram](https://www.instagram.com/bellmojica)
 
