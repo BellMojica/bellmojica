@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Me llamo Bell Mojica</h1>
 <h3 align="center">Ingeniero de sistemas apasionado por la tecnología, de Colombia</h3>
 
-- Systems Engineer with a strong focus on achieving impactful results through the optimization and integration of complex systems. I am passionate about tackling dynamic challenges and applying creativity to develop intuitive and robust engineering solutions.
-My experience spans the entire system lifecycle, from requirements analysis and system architecture design to implementation and maintenance. I have demonstrated proficiency in project management, user-centered problem-solving, and seamless collaboration across cross-functional engineering and business teams.**
+Ingeniero de Sistemas con un fuerte enfoque en lograr resultados impactantes mediante la optimización e integración de sistemas complejos. Me apasiona afrontar desafíos dinámicos y aplicar la creatividad para desarrollar soluciones de ingeniería intuitivas y robustas.
+Mi experiencia abarca todo el ciclo de vida del sistema, desde el análisis de requisitos y el diseño de la arquitectura del sistema hasta la implementación y el mantenimiento. He demostrado competencia en gestión de proyectos, resolución de problemas centrada en el usuario y colaboración fluida entre equipos multifuncionales de ingeniería y negocios.**
 
 - 💬 Ask me about **java, Python, SQL, HTML,CSS,**
 
