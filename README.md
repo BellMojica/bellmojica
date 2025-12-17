@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Bell Mojica</h1>
-<h3 align="center">Estudiante de Ingeniería de sistemas apasionado por la tecnología, de Colombia</h3>
+<h3 align="center">Ingeniero de sistemas apasionado por la tecnología, de Colombia</h3>
 
 - 💬 Ask me about **java, Python, SQL, HTML,CSS,**
 
