@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bell Jose Mojica Medina</h1>
 <h3 align="center"> I'm a systems engineer passionate about transforming complex problems into intuitive, high-impact technical solutions</h3>
 
-- 🌱 I’m currently learning ** NET, JAVASCRIP, HTML, CSS, PLSQL , SQL, JAVA , ORACLE
+- 🌱 I’m currently learning  .NET, JAVASCRIP, HTML, CSS, PLSQL , SQL, JAVA , ORACLE
 
 - 🤝 I’m looking for help with **my first tech job**
 
