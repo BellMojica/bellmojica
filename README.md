@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bell Jose Mojica Medina</h1>
-<h3 align="center">¡Hola! Soy ingeniero de sistemas apasionado por transformar problemas complejos en soluciones técnicas intuitivas y de alto impacto</h3>
+<h3 align="center"> I'm a systems engineer passionate about transforming complex problems into intuitive, high-impact technical solutions</h3>
 
 - 🌱 I’m currently learning **.NET, JAVASCRIP, HTML, CSS, PLSQL , SQL, JAVA , ORACLE
 
-- 🤝 I’m looking for help with **Mi primer trabajo en tecnología**
+- 🤝 I’m looking for help with **my first tech job**
 
 - 👨‍💻 All of my projects are available at [https://bellmojica.github.io/](https://bellmojica.github.io/)
 
 - 📫 How to reach me **belljosemedina@gmail.com**
 
-- ⚡ Fun fact **Soy un orgulloso indígena Wayuu**
+- ⚡ Fun fact **I'm a proud Wayuu indigenous person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
