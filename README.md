@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bell Jose Mojica Medina</h1>
 <h3 align="center">¡Hola! Soy ingeniero de sistemas apasionado por transformar problemas complejos en soluciones técnicas intuitivas y de alto impacto</h3>
 
-- 🌱 I’m currently learning **.NET,JAVASCRIP,HTML,CSS,PLSQL,SQL,JAVA,ORACLE**
+- 🌱 I’m currently learning **.NET, JAVASCRIP, HTML, CSS, PLSQL , SQL, JAVA , ORACLE
 
-- 🤝 I’m looking for help with **mi primer trabajo en tecnología**
+- 🤝 I’m looking for help with **Mi primer trabajo en tecnología**
 
 - 👨‍💻 All of my projects are available at [https://bellmojica.github.io/](https://bellmojica.github.io/)
 
